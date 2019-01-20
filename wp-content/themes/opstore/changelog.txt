@@ -1,0 +1,34 @@
+=== v1.0.8 ===
+- Added Clothing v2 demo contents
+- WPML Compatible
+
+=== v1.0.7 ===
+- Customizer css issue fixed
+
+=== v1.0.6 ===
+- Added Demo 4
+- Responsive Issues Fixed
+
+=== v1.0.5 ===
+- Minor CSS fixes
+
+=== v1.0.4 ===
+- Minor Bugs Fixed
+
+
+=== v1.0.3 ===
+- Minor Bugs Fixed
+- Added support for YITH Compare 
+- CSS Improvements
+
+
+=== v1.0.2 ===
+- Minor Bugs Fixed
+
+
+=== v1.0.1 ===
+- Minor Bugs Fixed
+
+
+=== v1.0.0 ===
+- Initial release

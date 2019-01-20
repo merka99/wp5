@@ -1,0 +1,14 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_opstore">
+      <key name="nav_menu_locations">
+        <key name="primary"/>
+        <key name="top"/>
+      </key>
+      <key name="opstore_archive_read_more"/>
+      <key name="opstore_footer_text"/>
+      
+      
+    </key>
+  </admin-texts>
+</wpml-config>
